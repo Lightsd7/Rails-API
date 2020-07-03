@@ -16,6 +16,7 @@ gem 'sqlite3', '~> 1.3.6'
 gem 'puma', '~> 3.0'
 # Manage Procfile-based applications
 gem 'foreman'
+gem 'versionist'
 # A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
 gem 'jwt'
 gem 'devise_token_auth'
